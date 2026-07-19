@@ -1,0 +1,551 @@
+product_id,product_name,category,subcategory,cost_price
+1,Urban Cotton T-Shirt,Clothing,Men,397.35
+2,Vivid Non-Stick Pan,Home,Bedding,345.9
+3,PINNACLE STORYBOOK,Books,Comics,221.69
+4,Aster Wireless Earbuds,Electronics,Cameras,128.93
+5,Aster Charger Cable,Electronics,Laptops,475.64
+6,Urban Non-Stick Pan,Home,Lighting,237.9
+7,Aster Cookbook,Books,Comics,220.76
+8,Solstice Textbook,Books,Fiction,207.13
+9,Solstice Wooden Chair,Home,Kitchen,208.76
+10,Pinnacle Textbook,Books,Comics,23.17
+11,Solstice Wireless Earbuds,Electronics,Headphones,62.38
+12,Pinnacle Novel,Books,Children,233.68
+13,SOLSTICE CHARGER CABLE,Electronics,Laptops,314.58
+14,Pinnacle Wireless Earbuds,Electronics,Laptops,69.85
+15,Nova Bedsheet Set,Home,Bedding,486.71
+16,Pinnacle Running Shoes,Clothing,Women,11.77
+17,Nova Cookbook,Books,Fiction,233.42
+18,Everline DSLR Camera,Electronics,Laptops,256.89
+19,Vivid Bedsheet Set,Home,Bedding,125.65
+20,Aster Denim Jeans,Clothing,Footwear,256.58
+21,Craftly Running Shoes,Clothing,Men,173.24
+22,Everline Wall Clock,Home,Kitchen,419.55
+23,Pinnacle Textbook,Books,Non-Fiction,244.75
+24,Craftly LED Lamp,Home,Lighting,230.4
+25,Aster Wooden Chair,Home,Furniture,194.57
+26,Vivid Comic Collection,Books,Fiction,354.09
+27,Vivid Cookbook,Books,Academic,482.59
+28,Solstice Kids Hoodie,Clothing,Winterwear,435.5
+29,Vivid Storybook,Books,Fiction,12.6
+30,Nova Denim Jeans,Clothing,Footwear,237.4
+31,Craftly LED Lamp,Home,Decor,326.67
+32,Solstice Bedsheet Set,Home,Lighting,315.27
+33,Aster Novel,Books,Children,38.87
+34,Craftly Non-Stick Pan,Home,Furniture,381.38
+35,Everline Laptop,Electronics,Cameras,452.19
+36,Everline Smartphone,Electronics,Headphones,182.44
+37,Pinnacle Cookbook,Books,Non-Fiction,208.97
+38,Nova Denim Jeans,Clothing,Women,306.7
+39,Vivid Cookbook,Books,Children,456.85
+40,Everline Winter Jacket,Clothing,Women,232.49
+41,Pinnacle Wireless Earbuds,Electronics,Cameras,83.2
+42,Everline Storybook,Books,Comics,321.27
+43,Everline Textbook,Books,Comics,103.61
+44,Prime Novel,Books,Academic,193.78
+45,Everline Wall Clock,Home,Lighting,15.86
+46,Aster Novel,Books,Comics,433.21
+47,EVERLINE DSLR CAMERA,Electronics,Accessories,305.5
+48,Aster Wooden Chair,Home,Furniture,129.06
+49,Everline Cotton T-Shirt,Clothing,Men,395.36
+50,Urban Wireless Earbuds,Electronics,Accessories,49.62
+51,Urban Bedsheet Set,Home,Decor,104.39
+52,Everline LED Lamp,Home,Lighting,416.08
+53,Solstice Wall Clock,Home,Bedding,236.82
+54,Craftly Laptop,Electronics,Laptops,483.8
+55,zenith bedsheet set,Home,Kitchen,270.6
+56,ASTER COMIC COLLECTION,Books,Comics,412.1
+57,Vivid Wooden Chair,Home,Kitchen,17.39
+58,Nova Wooden Chair,Home,Lighting,319.52
+59,Nova Textbook,Books,Comics,74.19
+60,Nova DSLR Camera,Electronics,Headphones,53.11
+61,Solstice Winter Jacket,Clothing,Footwear,336.89
+62,Craftly Cookbook,Books,Children,417.68
+63,Solstice Novel,Books,Comics,112.55
+64,Nova Comic Collection,Books,Non-Fiction,490.56
+65,Zenith Wall Clock,Home,Lighting,202.08
+66,Nova Winter Jacket,Clothing,Men,333.07
+67,PRIME WIRELESS EARBUDS,Electronics,Mobiles,394.55
+68,Prime Kids Hoodie,Clothing,Men,295.26
+69,Aster Denim Jeans,Clothing,Kids,6.4
+70,Everline Kids Hoodie,Clothing,Women,400.26
+71,Zenith Laptop,Electronics,Mobiles,182.33
+72,Zenith Running Shoes,Clothing,Winterwear,91.25
+73,Pinnacle DSLR Camera,Electronics,Laptops,374.1
+74,Pinnacle Comic Collection,Books,Academic,298.86
+75,Aster Cookbook,Books,Children,26.47
+76,ZENITH NON-STICK PAN,Home,Bedding,424.41
+77,Vivid Textbook,Books,Fiction,450.14
+78,Nova Wooden Chair,Home,Lighting,67.46
+79,Pinnacle LED Lamp,Home,Bedding,150.97
+80,Pinnacle Novel,Books,Fiction,361.82
+81,Prime Winter Jacket,Clothing,Footwear,209.84
+82,Nova Textbook,Books,Academic,159.71
+83,Urban Wall Clock,Home,Decor,344.98
+84,Nova Novel,Books,Fiction,218.78
+85,Zenith LED Lamp,Home,Furniture,295.3
+86,Solstice Bedsheet Set,Home,Kitchen,437.44
+87,Aster Comic Collection,Books,Fiction,159.66
+88,PRIME CHARGER CABLE,Electronics,Accessories,330.08
+89,Pinnacle Running Shoes,Clothing,Men,186.94
+90,Craftly Wooden Chair,Home,Lighting,423.35
+91,Zenith Wireless Earbuds,Electronics,Accessories,94.31
+92,Zenith Wall Clock,Home,Decor,94.8
+93,Nova Winter Jacket,Clothing,Winterwear,75.23
+94,Prime Charger Cable,Electronics,Mobiles,191.22
+95,Solstice Cookbook,Books,Comics,159.26
+96,Nova LED Lamp,Home,Lighting,442.25
+97,Zenith Kids Hoodie,Clothing,Women,338.61
+98,Vivid Bedsheet Set,Home,Bedding,305.5
+99,Pinnacle Cookbook,Books,Comics,61.34
+100,Aster Comic Collection,Books,Fiction,245.88
+101,Craftly Wooden Chair,Home,Kitchen,492.3
+102,EVERLINE LAPTOP,Electronics,Mobiles,384.84
+103,Nova Wall Clock,Home,Decor,251.21
+104,Craftly Cookbook,Books,Non-Fiction,268.63
+105,Solstice Kids Hoodie,Clothing,Winterwear,40.68
+106,Vivid Smartphone,Electronics,Cameras,431.74
+107,Craftly Textbook,Books,Children,148.31
+108,Urban Comic Collection,Books,Fiction,401.65
+109,Craftly Novel,Books,Comics,423.02
+110,Craftly Kids Hoodie,Clothing,Footwear,264.36
+111,Prime Comic Collection,Books,Comics,169.87
+112,Nova Kids Hoodie,Clothing,Men,267.65
+113,Urban Running Shoes,Clothing,Kids,121.95
+114,Urban Denim Jeans,Clothing,Kids,303.19
+115,Vivid DSLR Camera,Electronics,Laptops,378.45
+116,Solstice Storybook,Books,Children,432.8
+117,NOVA BEDSHEET SET,Home,Furniture,223.89
+118,zenith led lamp,Home,Decor,256.13
+119,Zenith Bedsheet Set,Home,Bedding,33.16
+120,Aster Non-Stick Pan,Home,Kitchen,299.07
+121,Pinnacle Storybook,Books,Academic,477.34
+122,prime charger cable,Electronics,Cameras,304.48
+123,nova winter jacket,Clothing,Men,491.28
+124,Zenith Laptop,Electronics,Accessories,127.63
+125,Pinnacle Storybook,Books,Academic,306.85
+126,Craftly Wall Clock,Home,Decor,207.34
+127,Solstice Non-Stick Pan,Home,Lighting,37.63
+128,Everline DSLR Camera,Electronics,Accessories,129.74
+129,Aster Cotton T-Shirt,Clothing,Kids,333.49
+130,Urban Bedsheet Set,Home,Decor,158.24
+131,Pinnacle Cookbook,Books,Comics,51.26
+132,Zenith Comic Collection,Books,Children,184.49
+133,Vivid Running Shoes,Clothing,Women,100.04
+134,Everline Cotton T-Shirt,Clothing,Women,422.99
+135,Pinnacle Charger Cable,Electronics,Accessories,23.69
+136,Aster Wooden Chair,Home,Lighting,191.48
+137,Urban Kids Hoodie,Clothing,Women,361.99
+138,Prime Wireless Earbuds,Electronics,Cameras,484.95
+139,Pinnacle Wooden Chair,Home,Bedding,123.39
+140,Aster Comic Collection,Books,Non-Fiction,492.3
+141,Pinnacle Textbook,Books,Comics,266.09
+142,Urban Kids Hoodie,Clothing,Women,437.14
+143,Pinnacle Wireless Earbuds,Electronics,Cameras,467.48
+144,Urban Smartphone,Electronics,Headphones,140.03
+145,Prime Cotton T-Shirt,Clothing,Footwear,409.27
+146,Zenith Bedsheet Set,Home,Kitchen,201.24
+147,Nova Bedsheet Set,Home,Furniture,190.58
+148,Solstice Smartphone,Electronics,Headphones,396.73
+149,Vivid Running Shoes,Clothing,Men,349.56
+150,Aster Winter Jacket,Clothing,Footwear,7.6
+151,Prime Wireless Earbuds,Electronics,Mobiles,418.31
+152,Prime Comic Collection,Books,Fiction,154.07
+153,ASTER DSLR CAMERA,Electronics,Laptops,36.09
+154,Zenith Storybook,Books,Children,317.82
+155,Craftly Running Shoes,Clothing,Women,5.77
+156,CRAFTLY LED LAMP,Home,Furniture,333.86
+157,Nova Wireless Earbuds,Electronics,Accessories,476.93
+158,Zenith DSLR Camera,Electronics,Cameras,319.66
+159,Solstice Non-Stick Pan,Home,Decor,395.32
+160,Aster Non-Stick Pan,Home,Furniture,368.92
+161,solstice non-stick pan,Home,Furniture,407.69
+162,Urban Winter Jacket,Clothing,Footwear,406.69
+163,Everline Smartphone,Electronics,Cameras,104.79
+164,Everline Running Shoes,Clothing,Men,260.11
+165,Prime Novel,Books,Comics,146.62
+166,Nova Wireless Earbuds,Electronics,Headphones,400.67
+167,Craftly Textbook,Books,Academic,172.82
+168,Solstice Winter Jacket,Clothing,Footwear,462.53
+169,Nova Bedsheet Set,Home,Kitchen,218.15
+170,Solstice Running Shoes,Clothing,Winterwear,55.79
+171,Vivid Wall Clock,Home,Decor,303.3
+172,Solstice Textbook,Books,Non-Fiction,226.33
+173,Everline Bedsheet Set,Home,Lighting,321.54
+174,Solstice DSLR Camera,Electronics,Mobiles,258.98
+175,Aster Denim Jeans,Clothing,Men,340.65
+176,Nova Cookbook,Books,Fiction,121.82
+177,Aster Bedsheet Set,Home,Decor,21.03
+178,SOLSTICE RUNNING SHOES,Clothing,Footwear,382.73
+179,Craftly Running Shoes,Clothing,Winterwear,160.62
+180,Zenith Non-Stick Pan,Home,Furniture,369.16
+181,Pinnacle Textbook,Books,Children,63.29
+182,Aster Wooden Chair,Home,Bedding,146.36
+183,Urban Novel,Books,Non-Fiction,427.15
+184,nova textbook,Books,Non-Fiction,335.58
+185,Everline Charger Cable,Electronics,Accessories,446.21
+186,Pinnacle Running Shoes,Clothing,Women,116.0
+187,Vivid Denim Jeans,Clothing,Women,18.01
+188,Urban LED Lamp,Home,Bedding,307.91
+189,CRAFTLY WIRELESS EARBUDS,Electronics,Mobiles,265.22
+190,urban novel,Books,Children,322.96
+191,Solstice Storybook,Books,Academic,68.53
+192,Pinnacle Winter Jacket,Clothing,Women,455.8
+193,Urban Charger Cable,Electronics,Mobiles,155.54
+194,Solstice Denim Jeans,Clothing,Kids,474.0
+195,Prime Wall Clock,Home,Kitchen,319.35
+196,Aster Wall Clock,Home,Furniture,269.07
+197,URBAN KIDS HOODIE,Clothing,Winterwear,331.07
+198,Zenith Non-Stick Pan,Home,Lighting,45.21
+199,Craftly LED Lamp,Home,Furniture,251.53
+200,Prime Bedsheet Set,Home,Decor,403.32
+201,Nova Textbook,Books,Comics,345.86
+202,Vivid Winter Jacket,Clothing,Footwear,234.9
+203,solstice wooden chair,Home,Lighting,368.43
+204,Solstice Wooden Chair,Home,Bedding,259.92
+205,Vivid Laptop,Electronics,Headphones,65.65
+206,Nova Cookbook,Books,Non-Fiction,30.05
+207,Prime Textbook,Books,Children,481.53
+208,Solstice Kids Hoodie,Clothing,Kids,98.97
+209,Vivid Kids Hoodie,Clothing,Footwear,251.89
+210,Nova Non-Stick Pan,Home,Bedding,472.89
+211,Aster Cookbook,Books,Non-Fiction,179.68
+212,Aster DSLR Camera,Electronics,Headphones,441.76
+213,Zenith Storybook,Books,Comics,218.31
+214,Solstice Bedsheet Set,Home,Decor,27.39
+215,Prime Charger Cable,Electronics,Accessories,184.45
+216,Pinnacle Bedsheet Set,Home,Kitchen,227.93
+217,NOVA LED LAMP,Home,Lighting,487.67
+218,Pinnacle Comic Collection,Books,Comics,469.78
+219,Pinnacle Kids Hoodie,Clothing,Women,203.69
+220,Urban Smartphone,Electronics,Mobiles,358.23
+221,Urban Textbook,Books,Children,305.1
+222,SOLSTICE KIDS HOODIE,Clothing,Kids,199.51
+223,Pinnacle Wall Clock,Home,Lighting,415.0
+224,Vivid Comic Collection,Books,Children,408.8
+225,Craftly Non-Stick Pan,Home,Decor,293.93
+226,Everline DSLR Camera,Electronics,Accessories,483.7
+227,Vivid Kids Hoodie,Clothing,Men,89.4
+228,Zenith Cookbook,Books,Non-Fiction,288.42
+229,Vivid Smartphone,Electronics,Laptops,160.28
+230,Craftly Denim Jeans,Clothing,Footwear,253.4
+231,PINNACLE COOKBOOK,Books,Fiction,282.64
+232,SOLSTICE TEXTBOOK,Books,Children,232.53
+233,EVERLINE WALL CLOCK,Home,Lighting,100.17
+234,Everline Kids Hoodie,Clothing,Kids,116.31
+235,Vivid Wooden Chair,Home,Decor,161.94
+236,Everline Wall Clock,Home,Lighting,65.33
+237,Urban Comic Collection,Books,Academic,148.77
+238,vivid wall clock,Home,Kitchen,374.93
+239,Everline Kids Hoodie,Clothing,Women,466.85
+240,ASTER NON-STICK PAN,Home,Furniture,125.02
+241,Nova Cotton T-Shirt,Clothing,Women,209.58
+242,Zenith Cookbook,Books,Fiction,482.44
+243,Vivid Winter Jacket,Clothing,Footwear,327.02
+244,Zenith Wall Clock,Home,Decor,454.43
+245,Pinnacle Laptop,Electronics,Accessories,370.65
+246,Urban DSLR Camera,Electronics,Laptops,498.6
+247,Everline Cookbook,Books,Academic,438.99
+248,Aster Charger Cable,Electronics,Headphones,58.11
+249,Pinnacle Bedsheet Set,Home,Decor,264.54
+250,Everline Winter Jacket,Clothing,Winterwear,100.44
+251,Vivid Laptop,Electronics,Headphones,325.9
+252,Everline Running Shoes,Clothing,Men,286.05
+253,Craftly Kids Hoodie,Clothing,Women,414.36
+254,Nova Bedsheet Set,Home,Kitchen,96.47
+255,Prime Running Shoes,Clothing,Footwear,134.09
+256,Solstice Running Shoes,Clothing,Footwear,154.46
+257,Prime Wireless Earbuds,Electronics,Headphones,35.75
+258,Urban Wireless Earbuds,Electronics,Cameras,205.68
+259,SOLSTICE WALL CLOCK,Home,Kitchen,113.47
+260,Vivid Denim Jeans,Clothing,Footwear,375.13
+261,Vivid LED Lamp,Home,Bedding,379.89
+262,Nova Kids Hoodie,Clothing,Women,265.13
+263,Nova LED Lamp,Home,Kitchen,35.57
+264,Urban Kids Hoodie,Clothing,Winterwear,86.45
+265,Aster Cookbook,Books,Fiction,246.97
+266,Urban Textbook,Books,Fiction,259.06
+267,Pinnacle Novel,Books,Children,233.88
+268,Everline Bedsheet Set,Home,Kitchen,409.14
+269,Zenith Cotton T-Shirt,Clothing,Winterwear,214.73
+270,Nova Smartphone,Electronics,Accessories,493.14
+271,CRAFTLY COMIC COLLECTION,Books,Fiction,385.64
+272,Vivid Textbook,Books,Comics,435.46
+273,PINNACLE NOVEL,Books,Academic,328.5
+274,Pinnacle Wooden Chair,Home,Kitchen,199.56
+275,Zenith Cotton T-Shirt,Clothing,Women,489.35
+276,Pinnacle Textbook,Books,Children,192.74
+277,Solstice Winter Jacket,Clothing,Women,81.79
+278,Craftly Cotton T-Shirt,Clothing,Men,309.39
+279,Nova Laptop,Electronics,Laptops,54.94
+280,Zenith Charger Cable,Electronics,Cameras,126.14
+281,PRIME DSLR CAMERA,Electronics,Cameras,378.42
+282,Everline Charger Cable,Electronics,Laptops,120.91
+283,Solstice LED Lamp,Home,Lighting,122.27
+284,craftly denim jeans,Clothing,Winterwear,141.2
+285,Vivid Kids Hoodie,Clothing,Footwear,28.21
+286,Solstice LED Lamp,Home,Bedding,349.67
+287,Craftly Comic Collection,Books,Non-Fiction,96.02
+288,Everline Cookbook,Books,Non-Fiction,429.48
+289,Pinnacle Cotton T-Shirt,Clothing,Footwear,209.28
+290,URBAN STORYBOOK,Books,Children,125.21
+291,Vivid Cotton T-Shirt,Clothing,Kids,424.33
+292,zenith laptop,Electronics,Accessories,191.7
+293,Aster Laptop,Electronics,Mobiles,363.53
+294,Solstice Denim Jeans,Clothing,Footwear,155.08
+295,Nova Laptop,Electronics,Laptops,374.71
+296,PRIME STORYBOOK,Books,Non-Fiction,457.99
+297,Vivid Bedsheet Set,Home,Decor,269.16
+298,Solstice Wall Clock,Home,Decor,258.84
+299,vivid novel,Books,Academic,457.59
+300,ZENITH BEDSHEET SET,Home,Decor,371.92
+301,Aster Charger Cable,Electronics,Headphones,291.68
+302,Prime Cookbook,Books,Comics,168.28
+303,Vivid Cookbook,Books,Children,277.57
+304,VIVID BEDSHEET SET,Home,Decor,88.28
+305,PINNACLE WOODEN CHAIR,Home,Furniture,96.1
+306,Nova Smartphone,Electronics,Accessories,472.87
+307,Urban DSLR Camera,Electronics,Mobiles,422.06
+308,Zenith Denim Jeans,Clothing,Men,113.27
+309,Aster Novel,Books,Comics,320.68
+310,ZENITH NOVEL,Books,Academic,10.87
+311,Zenith Wall Clock,Home,Lighting,253.6
+312,NOVA NOVEL,Books,Non-Fiction,124.28
+313,Craftly Wall Clock,Home,Decor,189.66
+314,Prime Storybook,Books,Academic,495.17
+315,Zenith Cotton T-Shirt,Clothing,Kids,51.28
+316,Vivid Storybook,Books,Academic,32.78
+317,Vivid Smartphone,Electronics,Laptops,423.44
+318,Pinnacle Non-Stick Pan,Home,Lighting,459.98
+319,Vivid Kids Hoodie,Clothing,Women,139.19
+320,Aster Charger Cable,Electronics,Headphones,330.76
+321,Prime Cotton T-Shirt,Clothing,Kids,295.58
+322,Urban Comic Collection,Books,Fiction,284.16
+323,Craftly Comic Collection,Books,Children,379.03
+324,Solstice Kids Hoodie,Clothing,Men,53.35
+325,Aster Running Shoes,Clothing,Men,385.66
+326,Everline Novel,Books,Comics,392.86
+327,Solstice Cookbook,Books,Academic,278.75
+328,Aster Cookbook,Books,Academic,332.03
+329,Prime Wireless Earbuds,Electronics,Accessories,357.99
+330,Craftly Laptop,Electronics,Headphones,357.28
+331,Solstice Running Shoes,Clothing,Footwear,57.74
+332,Solstice DSLR Camera,Electronics,Headphones,381.87
+333,Urban Smartphone,Electronics,Laptops,218.33
+334,Nova Novel,Books,Fiction,180.19
+335,Solstice Charger Cable,Electronics,Accessories,432.54
+336,Craftly DSLR Camera,Electronics,Headphones,390.69
+337,Urban Kids Hoodie,Clothing,Winterwear,344.23
+338,Everline Running Shoes,Clothing,Women,137.86
+339,Craftly Denim Jeans,Clothing,Men,141.6
+340,Solstice Non-Stick Pan,Home,Bedding,129.59
+341,Aster Kids Hoodie,Clothing,Footwear,101.8
+342,Zenith Wireless Earbuds,Electronics,Laptops,474.67
+343,Solstice Bedsheet Set,Home,Lighting,222.91
+344,Everline Cookbook,Books,Children,163.73
+345,Urban Running Shoes,Clothing,Footwear,482.46
+346,Aster Bedsheet Set,Home,Decor,392.08
+347,Craftly Wall Clock,Home,Bedding,185.68
+348,Urban Kids Hoodie,Clothing,Winterwear,342.45
+349,vivid laptop,Electronics,Cameras,416.48
+350,Urban DSLR Camera,Electronics,Cameras,318.5
+351,Craftly Denim Jeans,Clothing,Kids,395.59
+352,Vivid Charger Cable,Electronics,Cameras,293.21
+353,Solstice Novel,Books,Children,352.31
+354,Solstice Laptop,Electronics,Mobiles,87.34
+355,Solstice DSLR Camera,Electronics,Accessories,483.03
+356,Nova Novel,Books,Fiction,133.08
+357,Craftly Running Shoes,Clothing,Footwear,234.22
+358,Vivid Cotton T-Shirt,Clothing,Kids,56.75
+359,Urban Novel,Books,Fiction,177.42
+360,Pinnacle Wooden Chair,Home,Bedding,244.05
+361,Vivid Textbook,Books,Fiction,162.86
+362,Zenith Non-Stick Pan,Home,Kitchen,425.34
+363,Pinnacle Laptop,Electronics,Laptops,91.35
+364,Craftly Kids Hoodie,Clothing,Kids,479.44
+365,Urban Denim Jeans,Clothing,Footwear,322.04
+366,Aster Novel,Books,Academic,442.13
+367,Craftly Textbook,Books,Children,7.2
+368,Nova Running Shoes,Clothing,Women,290.79
+369,Prime Running Shoes,Clothing,Kids,231.49
+370,SOLSTICE LED LAMP,Home,Bedding,307.6
+371,Vivid Wireless Earbuds,Electronics,Headphones,310.59
+372,Nova LED Lamp,Home,Lighting,337.69
+373,Everline Wooden Chair,Home,Kitchen,62.89
+374,Craftly LED Lamp,Home,Furniture,212.03
+375,Craftly Winter Jacket,Clothing,Winterwear,96.95
+376,Vivid Denim Jeans,Clothing,Winterwear,147.97
+377,Aster Winter Jacket,Clothing,Kids,31.54
+378,Urban Bedsheet Set,Home,Kitchen,101.59
+379,Vivid Storybook,Books,Children,207.52
+380,Vivid Textbook,Books,Academic,87.79
+381,Zenith Wireless Earbuds,Electronics,Laptops,141.05
+382,Aster Bedsheet Set,Home,Furniture,372.55
+383,Nova Storybook,Books,Children,288.49
+384,Pinnacle Wall Clock,Home,Lighting,412.19
+385,Prime Charger Cable,Electronics,Cameras,494.94
+386,Zenith Wireless Earbuds,Electronics,Laptops,227.62
+387,Nova Bedsheet Set,Home,Kitchen,388.94
+388,Solstice Kids Hoodie,Clothing,Women,431.22
+389,Urban Storybook,Books,Non-Fiction,393.5
+390,solstice kids hoodie,Clothing,Men,300.44
+391,Everline Running Shoes,Clothing,Kids,288.5
+392,Zenith DSLR Camera,Electronics,Laptops,496.28
+393,Urban Denim Jeans,Clothing,Women,357.14
+394,Urban Winter Jacket,Clothing,Footwear,290.83
+395,Vivid Bedsheet Set,Home,Bedding,42.38
+396,Everline Charger Cable,Electronics,Cameras,348.88
+397,Solstice Bedsheet Set,Home,Bedding,293.07
+398,Nova Wireless Earbuds,Electronics,Cameras,398.86
+399,Prime Textbook,Books,Non-Fiction,249.88
+400,Pinnacle Wall Clock,Home,Decor,291.08
+401,Zenith Novel,Books,Comics,54.29
+402,Urban Novel,Books,Fiction,223.44
+403,Urban Laptop,Electronics,Cameras,441.66
+404,Nova Wall Clock,Home,Furniture,329.02
+405,Urban Wall Clock,Home,Kitchen,30.63
+406,Nova Bedsheet Set,Home,Furniture,353.33
+407,Nova DSLR Camera,Electronics,Laptops,70.69
+408,Zenith Winter Jacket,Clothing,Winterwear,8.99
+409,Urban Bedsheet Set,Home,Kitchen,241.46
+410,Nova Cotton T-Shirt,Clothing,Footwear,56.08
+411,CRAFTLY WOODEN CHAIR,Home,Decor,322.58
+412,Aster Kids Hoodie,Clothing,Men,9.19
+413,Prime Running Shoes,Clothing,Footwear,315.9
+414,Vivid Kids Hoodie,Clothing,Footwear,430.68
+415,Nova Laptop,Electronics,Mobiles,296.84
+416,Solstice Textbook,Books,Comics,396.58
+417,Prime Cotton T-Shirt,Clothing,Kids,278.93
+418,Prime Wall Clock,Home,Kitchen,261.29
+419,ZENITH RUNNING SHOES,Clothing,Footwear,249.97
+420,Aster DSLR Camera,Electronics,Laptops,40.15
+421,Urban Wireless Earbuds,Electronics,Headphones,196.48
+422,Urban Storybook,Books,Comics,382.55
+423,Nova Charger Cable,Electronics,Mobiles,11.83
+424,Craftly Cotton T-Shirt,Clothing,Men,255.77
+425,Nova Textbook,Books,Academic,322.07
+426,Everline Cotton T-Shirt,Clothing,Kids,44.12
+427,SOLSTICE KIDS HOODIE,Clothing,Women,295.29
+428,Prime DSLR Camera,Electronics,Headphones,33.66
+429,Vivid Smartphone,Electronics,Cameras,308.09
+430,Nova Laptop,Electronics,Headphones,11.27
+431,Vivid Denim Jeans,Clothing,Men,476.74
+432,Urban Wall Clock,Home,Furniture,376.14
+433,Solstice Non-Stick Pan,Home,Kitchen,404.52
+434,Everline Non-Stick Pan,Home,Lighting,357.6
+435,Pinnacle DSLR Camera,Electronics,Cameras,183.26
+436,SOLSTICE COOKBOOK,Books,Children,131.28
+437,Prime Smartphone,Electronics,Accessories,371.69
+438,Prime Smartphone,Electronics,Mobiles,27.76
+439,Urban Wooden Chair,Home,Bedding,465.92
+440,prime dslr camera,Electronics,Accessories,127.89
+441,Aster Non-Stick Pan,Home,Decor,189.54
+442,Pinnacle Laptop,Electronics,Laptops,490.8
+443,Everline Textbook,Books,Fiction,387.9
+444,Pinnacle Non-Stick Pan,Home,Decor,231.09
+445,Aster Wall Clock,Home,Furniture,393.33
+446,Aster Running Shoes,Clothing,Footwear,486.07
+447,Urban Denim Jeans,Clothing,Winterwear,8.16
+448,Pinnacle Cookbook,Books,Fiction,176.48
+449,Craftly Smartphone,Electronics,Headphones,425.26
+450,Pinnacle Wooden Chair,Home,Kitchen,491.64
+451,Urban Novel,Books,Academic,357.27
+452,PINNACLE LAPTOP,Electronics,Mobiles,351.92
+453,Aster Non-Stick Pan,Home,Bedding,52.31
+454,Aster Cotton T-Shirt,Clothing,Footwear,220.32
+455,Everline Running Shoes,Clothing,Women,426.2
+456,Vivid Comic Collection,Books,Comics,139.62
+457,Aster Laptop,Electronics,Laptops,58.94
+458,Vivid DSLR Camera,Electronics,Laptops,160.45
+459,Prime Wireless Earbuds,Electronics,Accessories,228.7
+460,Nova Novel,Books,Comics,83.02
+461,Prime Non-Stick Pan,Home,Lighting,418.78
+462,prime non-stick pan,Home,Furniture,201.14
+463,Urban Wireless Earbuds,Electronics,Headphones,20.39
+464,Pinnacle Storybook,Books,Academic,128.68
+465,Nova Cookbook,Books,Fiction,35.53
+466,Craftly Denim Jeans,Clothing,Women,189.26
+467,Everline Charger Cable,Electronics,Accessories,459.13
+468,Prime Smartphone,Electronics,Mobiles,451.74
+469,Solstice Novel,Books,Non-Fiction,65.65
+470,Aster Cookbook,Books,Fiction,219.41
+471,Craftly Novel,Books,Academic,343.19
+472,Urban Denim Jeans,Clothing,Kids,141.12
+473,Aster Novel,Books,Non-Fiction,311.49
+474,Craftly Winter Jacket,Clothing,Kids,441.98
+475,Everline Novel,Books,Fiction,194.59
+476,Prime Storybook,Books,Non-Fiction,317.22
+477,Vivid Wireless Earbuds,Electronics,Cameras,274.54
+478,Pinnacle Storybook,Books,Comics,164.19
+479,Solstice Non-Stick Pan,Home,Furniture,300.57
+480,Vivid Smartphone,Electronics,Headphones,267.07
+481,PRIME COTTON T-SHIRT,Clothing,Women,136.93
+482,craftly charger cable,Electronics,Laptops,467.93
+483,Aster Denim Jeans,Clothing,Women,162.41
+484,Solstice Non-Stick Pan,Home,Lighting,474.04
+485,Vivid Denim Jeans,Clothing,Winterwear,273.35
+486,Nova Cotton T-Shirt,Clothing,Footwear,32.8
+487,Vivid Kids Hoodie,Clothing,Men,5.34
+488,Urban Running Shoes,Clothing,Women,459.8
+489,Urban Non-Stick Pan,Home,Kitchen,295.37
+490,Solstice Kids Hoodie,Clothing,Men,189.93
+491,solstice novel,Books,Children,164.69
+492,Solstice Winter Jacket,Clothing,Footwear,91.23
+493,Urban LED Lamp,Home,Furniture,192.3
+494,Zenith Wooden Chair,Home,Furniture,474.65
+495,Urban Novel,Books,Children,303.18
+496,VIVID COTTON T-SHIRT,Clothing,Winterwear,168.93
+497,Solstice Wireless Earbuds,Electronics,Laptops,88.1
+498,Zenith DSLR Camera,Electronics,Headphones,136.28
+499,Everline Running Shoes,Clothing,Men,394.57
+500,Vivid DSLR Camera,Electronics,Mobiles,367.63
+501,Craftly Winter Jacket,Clothing,Footwear,178.86
+502,Aster Textbook,Books,Fiction,327.23
+503,Nova Winter Jacket,Clothing,Women,150.98
+504,nova non-stick pan,Home,Decor,89.2
+505,Pinnacle Novel,Books,Non-Fiction,471.21
+506,Aster Charger Cable,Electronics,Headphones,447.15
+507,Aster Laptop,Electronics,Cameras,445.43
+508,Solstice Cotton T-Shirt,Clothing,Men,106.75
+509,Pinnacle Kids Hoodie,Clothing,Footwear,136.31
+510,Nova Wooden Chair,Home,Decor,29.57
+511,Solstice Novel,Books,Non-Fiction,6.89
+512,Vivid Charger Cable,Electronics,Headphones,103.84
+513,Everline Laptop,Electronics,Laptops,488.64
+514,Craftly Comic Collection,Books,Fiction,238.12
+515,Craftly LED Lamp,Home,Kitchen,96.52
+516,Vivid Cookbook,Books,Comics,27.09
+517,Prime Comic Collection,Books,Academic,419.35
+518,Nova Smartphone,Electronics,Laptops,335.73
+519,Pinnacle Cookbook,Books,Children,35.19
+520,Pinnacle Textbook,Books,Children,345.1
+521,Vivid Cookbook,Books,Children,152.93
+522,Aster Storybook,Books,Fiction,450.73
+523,Urban Winter Jacket,Clothing,Men,474.79
+524,Urban Denim Jeans,Clothing,Women,26.12
+525,Urban Laptop,Electronics,Cameras,417.88
+526,Nova Non-Stick Pan,Home,Decor,197.11
+527,Everline Comic Collection,Books,Children,262.25
+528,Pinnacle Charger Cable,Electronics,Accessories,391.93
+529,Urban Laptop,Electronics,Cameras,285.46
+530,Nova Charger Cable,Electronics,Mobiles,393.94
+531,Craftly Wall Clock,Home,Bedding,329.12
+532,Everline Cookbook,Books,Fiction,204.47
+533,Solstice Textbook,Books,Fiction,346.8
+534,Solstice Wireless Earbuds,Electronics,Cameras,15.02
+535,Vivid Wall Clock,Home,Decor,429.83
+536,EVERLINE LAPTOP,Electronics,Laptops,388.15
+537,Aster Bedsheet Set,Home,Decor,324.55
+538,CRAFTLY DENIM JEANS,Clothing,Footwear,380.95
+539,Urban LED Lamp,Home,Kitchen,37.48
+540,Aster Storybook,Books,Non-Fiction,19.33
+541,Prime Cotton T-Shirt,Clothing,Women,21.37
+542,Everline Laptop,Electronics,Headphones,187.33
+543,Nova Textbook,Books,Children,342.18
+544,Aster Winter Jacket,Clothing,Kids,225.82
+545,Solstice Storybook,Books,Children,175.4
+546,Zenith Wall Clock,Home,Kitchen,196.35
+547,PRIME DENIM JEANS,Clothing,Winterwear,340.46
+548,Zenith LED Lamp,Home,Bedding,432.99
+549,Urban Laptop,Electronics,Cameras,115.77
+550,Craftly Bedsheet Set,Home,Decor,426.54

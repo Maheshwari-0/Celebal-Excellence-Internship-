@@ -1,0 +1,40 @@
+
+DATA CLEANING REPORT
+
+Dataset: Products
+
+1. Missing values: 0
+2. Duplicate rows: 0
+3.Duplicate Product IDs: 0
+4.Invalid cost price: 0
+5. Extra spaces removed from product_name, category and subcategory.
+6.Cleaned dataset saved as cleaned_products.csv
+
+Dataset: Customers
+1.Missing values: 0
+2. Duplicate rows: 0
+3. Invalid emails found: 12
+4. Invalid emails fixed: 12
+5. Invalid registration dates: 0
+6. Duplicate customer IDs: 0
+7. Cleaned dataset saved as cleaned_customers.csv
+
+Dataset: Orders
+1.Missing customer IDs: 75
+2. Kept as missing because customer is unknown.
+3 Order dates converted to datetime.
+4 Invalid dates: 0
+5 Duplicate rows: 0
+6 Duplicate order IDs: 0
+7 Cleaned dataset saved as cleaned_orders.csv
+
+Dataset: Order Items
+
+1.Duplicate rows: 0
+2.Negative quantity (returns): 96 
+3.Quantity = 0 rows removed: 32
+4. Discount >100 corrected: 32
+5. Invalid order IDs removed: 32
+6. Cleaned dataset saved as cleaned_order_items.csv
+
+Cleaning Completed Successfully.
